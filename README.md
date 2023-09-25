@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/Visual Studio-A020F0.svg?style=for-the-badge&logo=visualstudio&logoColor=black">
   <img src="https://img.shields.io/badge/Eclipse IDE-F26624.svg?style=for-the-badge&logo=eclipseide&logoColor=black">
   <img src="https://img.shields.io/badge/Apache NetBeans IDE-87CEFA.svg?style=for-the-badge&logo=apachenetbeanside&logoColor=black">
+  <img src="https://img.shields.io/badge/Pycharm-FCC200.svg?style=for-the-badge&logo=pycharm&logoColor=black">
   
 </div>
 </p>
@@ -40,3 +41,11 @@
   
 </div>
 </p> 
+
+<p align="center">
+  <a href="http://torrinleonard.com/">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elitepete&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+  </a>
+</p>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{elitepete}/count.svg"></p>
