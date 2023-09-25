@@ -43,7 +43,7 @@
 </p> 
 
 <p align="center">
-  <a href="http://torrinleonard.com/">
+  <a href="http://github.com/elitepete">
     <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elitepete&theme=dracula&bg_color=000000&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
   </a>
 </p>
